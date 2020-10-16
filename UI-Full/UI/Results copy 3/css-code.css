@@ -1,0 +1,71 @@
+.Results_copy_3 {
+  position: absolute;
+  left: 16129px;
+  top: 3146px;
+  width: 1920px;
+  height: 1080px;
+  z-index: 248;
+}
+.Start_Learning {
+  font-size: 72px;
+  font-family: "Gotham";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 708.453px;
+  top: 927.601px;
+  z-index: 247;
+}
+.Rounded_Rectangle_2 {
+  border-radius: 20px;
+  background-color: rgb(154, 1, 53);
+  position: absolute;
+  left: 684px;
+  top: 911px;
+  width: 549px;
+  height: 122px;
+  z-index: 246;
+}
+.Try_Again {
+  font-size: 72px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1457.562px;
+  top: 483.601px;
+  z-index: 245;
+}
+.Read_100 {
+  background-image: url("Read 100.png");
+  position: absolute;
+  left: 684px;
+  top: 288px;
+  width: 548px;
+  height: 580px;
+  z-index: 244;
+}
+.___Info {
+  font-size: 72px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 163.75px;
+  top: 488.8px;
+  z-index: 243;
+}
+.Your_predicted_learning_style_is_Read___Write_L {
+  font-size: 72px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 412.609px;
+  top: 32.601px;
+  z-index: 242;
+}
