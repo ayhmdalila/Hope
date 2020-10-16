@@ -1,0 +1,119 @@
+.Kinesthetic {
+  position: absolute;
+  left: 8080px;
+  top: 350px;
+  width: 1920px;
+  height: 1080px;
+  z-index: 364;
+}
+.Kinesthetic_Learners_How_to_recognize_kinesthet {
+  font-size: 72px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 35.562px;
+  top: 195.601px;
+  z-index: 363;
+}
+.Kine_100_copy {
+  background-image: url("Kine 100 copy.png");
+  opacity: 0.29;
+  position: absolute;
+  left: 1659px;
+  top: 151px;
+  width: 183px;
+  height: 222px;
+  z-index: 362;
+}
+.bar {
+  position: absolute;
+  left: -8080px;
+  top: -350px;
+  width: 22160px;
+  height: 6776px;
+  z-index: 360;
+}
+.Home {
+  font-size: 36px;
+  font-family: "Gotham XLight";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 8541.257px;
+  top: 406.9px;
+  z-index: 359;
+}
+.Browse {
+  font-size: 36px;
+  font-family: "Gotham XLight";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 8791.256px;
+  top: 405.9px;
+  z-index: 358;
+}
+.EN_____AR {
+  font-size: 30px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 9829px;
+  top: 411.5px;
+  z-index: 357;
+}
+.About_us {
+  font-size: 36px;
+  font-family: "Gotham XLight";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 9068.561px;
+  top: 407.4px;
+  z-index: 356;
+}
+.Rectangle_1_copy_2 {
+  background-image: url("Rectangle 1 copy 2.png");
+  opacity: 0.62;
+  position: absolute;
+  left: 9844px;
+  top: 1320px;
+  width: 104px;
+  height: 52px;
+  z-index: 355;
+}
+.logo_copy {
+  background-image: url("logo copy.png");
+  position: absolute;
+  left: 8123px;
+  top: 382px;
+  width: 275px;
+  height: 59px;
+  z-index: 354;
+}
+.Layer_6 {
+  background-image: url("Layer 6.png");
+  opacity: 0.11;
+  position: absolute;
+  left: 8012px;
+  top: 358px;
+  width: 1988px;
+  height: 108px;
+  z-index: 353;
+}
+.Layer_5 {
+  background-image: url("Layer 5.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 0px;
+  height: 0px;
+  z-index: 352;
+}
