@@ -1,0 +1,172 @@
+.Learning_style_info {
+  position: absolute;
+  left: 6060px;
+  top: 1780px;
+  width: 1920px;
+  height: 1080px;
+  z-index: 307;
+}
+.Layer_9 {
+  background-image: url("Layer 9.png");
+  opacity: 0.769;
+  position: absolute;
+  left: 1436px;
+  top: 264px;
+  width: 414px;
+  height: 438px;
+  z-index: 302;
+}
+.Auditory_Learners {
+  font-size: 72px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 510.829px;
+  top: 732.601px;
+  z-index: 301;
+}
+.Visual__Learners_copy {
+  font-size: 72px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 987.401px;
+  top: 733.601px;
+  z-index: 300;
+}
+.Read_Write_Learners {
+  font-size: 72px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1437px;
+  top: 732.601px;
+  z-index: 299;
+}
+.Kinesthetic_Learners {
+  font-size: 72px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 31px;
+  top: 732.601px;
+  z-index: 298;
+}
+.Layer_8 {
+  background-image: url("Layer 8.png");
+  opacity: 0.769;
+  position: absolute;
+  left: 47px;
+  top: 263px;
+  width: 364px;
+  height: 440px;
+  z-index: 297;
+}
+.Layer_7 {
+  background-image: url("Layer 7.png");
+  opacity: 0.769;
+  position: absolute;
+  left: 470px;
+  top: 274px;
+  width: 397px;
+  height: 427px;
+  z-index: 296;
+}
+.Visual {
+  background-image: url("Visual.png");
+  opacity: 0.769;
+  position: absolute;
+  left: 926px;
+  top: 266px;
+  width: 451px;
+  height: 433px;
+  z-index: 295;
+}
+.bar {
+  position: absolute;
+  left: -6060px;
+  top: -1780px;
+  width: 22160px;
+  height: 6776px;
+  z-index: 294;
+}
+.Home {
+  font-size: 36px;
+  font-family: "Gotham XLight";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 6521.257px;
+  top: 1836.9px;
+  z-index: 293;
+}
+.Browse {
+  font-size: 36px;
+  font-family: "Gotham XLight";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 6771.256px;
+  top: 1835.9px;
+  z-index: 292;
+}
+.EN_____AR {
+  font-size: 30px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 7809px;
+  top: 1841.5px;
+  z-index: 291;
+}
+.About_us {
+  font-size: 36px;
+  font-family: "Gotham XLight";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 7048.561px;
+  top: 1837.4px;
+  z-index: 290;
+}
+.logo_copy {
+  background-image: url("logo copy.png");
+  position: absolute;
+  left: 6103px;
+  top: 1812px;
+  width: 275px;
+  height: 59px;
+  z-index: 289;
+}
+.Layer_6 {
+  background-image: url("Layer 6.png");
+  opacity: 0.11;
+  position: absolute;
+  left: 5992px;
+  top: 1788px;
+  width: 1988px;
+  height: 108px;
+  z-index: 288;
+}
+.Layer_5 {
+  background-image: url("Layer 5.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 0px;
+  height: 0px;
+  z-index: 287;
+}
