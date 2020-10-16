@@ -1,0 +1,119 @@
+.Visual {
+  position: absolute;
+  left: 10100px;
+  top: 1780px;
+  width: 1920px;
+  height: 1080px;
+  z-index: 335;
+}
+.Auditory_Learners_How_to_recognize_auditory_lea {
+  font-size: 72px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 36px;
+  top: 195.601px;
+  z-index: 334;
+}
+.Audio_100_copy {
+  background-image: url("Audio 100 copy.png");
+  opacity: 0.102;
+  position: absolute;
+  left: 1649px;
+  top: 154px;
+  width: 201px;
+  height: 216px;
+  z-index: 333;
+}
+.bar {
+  position: absolute;
+  left: -10100px;
+  top: -1780px;
+  width: 22160px;
+  height: 6776px;
+  z-index: 332;
+}
+.Home {
+  font-size: 36px;
+  font-family: "Gotham XLight";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 10561.257px;
+  top: 1836.9px;
+  z-index: 331;
+}
+.Browse {
+  font-size: 36px;
+  font-family: "Gotham XLight";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 10811.256px;
+  top: 1835.9px;
+  z-index: 330;
+}
+.EN_____AR {
+  font-size: 30px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 11849px;
+  top: 1841.5px;
+  z-index: 329;
+}
+.About_us {
+  font-size: 36px;
+  font-family: "Gotham XLight";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 11088.561px;
+  top: 1837.4px;
+  z-index: 328;
+}
+.Rectangle_1_copy_2 {
+  background-image: url("Rectangle 1 copy 2.png");
+  opacity: 0.62;
+  position: absolute;
+  left: 11864px;
+  top: 2750px;
+  width: 104px;
+  height: 52px;
+  z-index: 327;
+}
+.logo_copy {
+  background-image: url("logo copy.png");
+  position: absolute;
+  left: 10143px;
+  top: 1812px;
+  width: 275px;
+  height: 59px;
+  z-index: 326;
+}
+.Layer_6 {
+  background-image: url("Layer 6.png");
+  opacity: 0.11;
+  position: absolute;
+  left: 10032px;
+  top: 1788px;
+  width: 1988px;
+  height: 108px;
+  z-index: 325;
+}
+.Layer_5 {
+  background-image: url("Layer 5.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 0px;
+  height: 0px;
+  z-index: 324;
+}
