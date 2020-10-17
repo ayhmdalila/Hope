@@ -1,0 +1,44 @@
+.r{
+    position: absolute;
+    top: 3%;
+    left: 25%;
+    width: 50%;
+}
+.logo{
+    position: absolute;
+    top: 25%;
+    left: 37%;
+    height: 50%;
+}
+a{
+    text-decoration: none;
+    color: #9a0135;
+    font-size: 50px;
+}
+.ta{
+    position: absolute;
+    top: 45%;
+    left: 80%;
+}
+.info{
+    position: absolute;
+    top: 45%;
+    left: 10%;
+}
+.btn{
+    position: absolute;
+    top: 80%;
+    left: 37%;
+    height: 15%;
+    width: 27%;
+    font-size: 50px;
+    border: none;
+    outline: none;
+    color: #9a0135;
+    background: none;
+    transition: 1s;
+}
+.btn:hover{
+    background: #9a0135;
+    color: white;
+}

@@ -1,0 +1,13 @@
+.q{
+    height: 120px;
+    width: 85%;
+}
+.op{
+    position: absolute;
+    top: 25%;
+    left: 15%;
+}
+.op img{
+    height: 50px;
+    width: 70%;
+}

@@ -1,0 +1,126 @@
+.About_us_2 {
+  position: absolute;
+  left: 0px;
+  top: 2446px;
+  width: 1920px;
+  height: 1080px;
+  z-index: 124;
+}
+.bar {
+  position: absolute;
+  left: 0px;
+  top: -2446px;
+  width: 8176px;
+  height: 3572px;
+  z-index: 123;
+}
+.Home {
+  font-size: 36px;
+  font-family: "Gotham XLight";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 461.257px;
+  top: 2502.9px;
+  z-index: 122;
+}
+.Browse {
+  font-size: 36px;
+  font-family: "Gotham XLight";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 711.256px;
+  top: 2501.9px;
+  z-index: 121;
+}
+.EN_____AR {
+  font-size: 30px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1749px;
+  top: 2507.5px;
+  z-index: 120;
+}
+.About_us {
+  font-size: 36px;
+  font-family: "Gotham XLight";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 988.561px;
+  top: 2503.4px;
+  z-index: 119;
+}
+.logo_copy {
+  background-image: url("logo copy.png");
+  position: absolute;
+  left: 43px;
+  top: 2478px;
+  width: 275px;
+  height: 59px;
+  z-index: 118;
+}
+.Layer_6 {
+  background-image: url("Layer 6.png");
+  opacity: 0.4;
+  position: absolute;
+  left: -68px;
+  top: 2454px;
+  width: 1988px;
+  height: 108px;
+  z-index: 117;
+}
+.Layer_5 {
+  background-image: url("Layer 5.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 0px;
+  height: 0px;
+  z-index: 116;
+}
+.Layer_3 {
+  background-image: url("Layer 3.png");
+  position: absolute;
+  left: 1004px;
+  top: 218px;
+  width: 818px;
+  height: 645px;
+  z-index: 114;
+}
+.Layer_4 {
+  background-image: url("Layer 4.png");
+  position: absolute;
+  left: 641px;
+  top: -674px;
+  width: 2156px;
+  height: 1800px;
+  z-index: 113;
+}
+.With_our_product__we_are__helping_fill_the_gap_ {
+  font-size: 48px;
+  font-family: "Gotham";
+  color: rgb(252, 0, 86);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 30px;
+  top: 163.4px;
+  z-index: 112;
+}
+.Layer_2 {
+  background-image: url("Layer 2.png");
+  position: absolute;
+  left: 0px;
+  top: -2330px;
+  width: 4128px;
+  height: 3928px;
+  z-index: 111;
+}

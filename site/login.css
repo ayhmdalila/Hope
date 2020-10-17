@@ -1,0 +1,441 @@
+body{
+
+    background: url("background.png") no-repeat center center fixed; 
+    background-size: cover;
+    background-size: cover;
+    background-size: cover;
+    background-size: cover;
+ 
+    
+}
+
+.login {
+    position: absolute;
+    left: 920px;
+    top: 120px;
+    z-index: 57;
+  }
+.signup{
+  position: absolute;
+  left: 150px;
+  top: 120px;
+  z-index: 57
+}
+.con{
+  position: absolute;
+  left: 150px;
+  top: 530px;
+  z-index: 57
+}
+  .bar {
+    position: absolute;
+    left: 0;
+    top: 0px;
+    width: 100%;
+    height: 0;
+    z-index: 0;
+    background: red;
+  }
+  .Home {
+    font-size: 36px;
+    font-family: "Gotham XLight";
+    color: rgb(154, 1, 53);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 2481.257px;
+    top: 56.9px;
+    z-index: 55;
+  }
+  .Browse {
+    font-size: 36px;
+    font-family: "Gotham XLight";
+    color: rgb(154, 1, 53);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 2731.256px;
+    top: 55.9px;
+    z-index: 54;
+  }
+  .EN_____AR {
+    font-size: 30px;
+    font-family: "Gotham";
+    color: rgb(154, 1, 53);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 3769px;
+    top: 61.5px;
+    z-index: 53;
+  }
+  .About_us {
+    font-size: 36px;
+    font-family: "Gotham XLight";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 3008.561px;
+    top: 57.4px;
+    z-index: 52;
+  }
+  .logo_copy {
+    background-image: url("logo copy.png");
+    position: absolute;
+    left: 2063px;
+    top: 32px;
+    width: 275px;
+    height: 59px;
+    z-index: 51;
+  }
+  .Layer_6 {
+    background-image: url("Layer 6.png");
+    opacity: 0.11;
+    position: absolute;
+    left: 1952px;
+    top: 8px;
+    width: 1988px;
+    height: 108px;
+    z-index: 50;
+  }
+  .Layer_5 {
+    background-image: url("Layer 5.png");
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 0px;
+    height: 0px;
+    z-index: 49;
+  }
+  .Layer_1 {
+    background-image: url("Layer 1.png");
+    position: absolute;
+    left: -2020px;
+    top: 0px;
+    width: 0px;
+    height: 0px;
+    z-index: 47;
+  }
+  .____or_log_in____ {
+    font-size: 48px;
+    font-family: "Gotham XLight";
+    color: rgb(169, 169, 169);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 901.248px;
+    top: 457.707px;
+    z-index: 46;
+  }
+  .sl {
+    font-size: 48px;
+    font-family: "Gotham XLight";
+    color: rgb(169, 169, 169);
+    line-height: 1.2;
+    text-align: left;
+    text-decoration: none;
+    z-index: 45;
+  }
+  .fname_copy_6 {
+    background-image: url("fname copy 6.png");
+    position: absolute;
+    left: 82px;
+    top: 845px;
+    width: 486px;
+    height: 86px;
+    z-index: 44;
+  }
+  .fname_copy_5 {
+    background-image: url("fname copy 5.png");
+    position: absolute;
+    left: 82px;
+    top: 742px;
+    width: 486px;
+    height: 86px;
+    z-index: 43;
+  }
+  .fname_copy_9 {
+    background-image: url("fname copy 9.png");
+    position: absolute;
+    left: 1211px;
+    top: 526px;
+    width: 486px;
+    height: 86px;
+    z-index: 42;
+  }
+  .fname_copy_8 {
+    background-image: url("fname copy 8.png");
+    position: absolute;
+    left: 1211px;
+    top: 418px;
+    width: 486px;
+    height: 86px;
+    z-index: 41;
+  }
+  .fname_copy_4 {
+    background-image: url("fname copy 4.png");
+    position: absolute;
+    left: 83px;
+    top: 639px;
+    width: 486px;
+    height: 86px;
+    z-index: 40;
+  }
+  .fname_copy_2 {
+    background-image: url("fname copy 2.png");
+    position: absolute;
+    left: 83px;
+    top: 536px;
+    width: 486px;
+    height: 86px;
+    z-index: 39;
+  }
+  .Rectangle_1 {
+    background-image: url("Rectangle 1.png");
+    opacity: 0.851;
+    position: absolute;
+    left: 484px;
+    top: 569px;
+    width: 56px;
+    height: 28px;
+    z-index: 38;
+  }
+  .confirm_password {
+    font-size: 36px;
+    font-family: "Gotham XLight";
+    color: rgb(169, 169, 169);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 175.912px;
+    top: 866.185px;
+    z-index: 37;
+  }
+  .password_copy {
+    font-size: 36px;
+    font-family: "Gotham XLight";
+    color: rgb(169, 169, 169);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1370.653px;
+    top: 547.077px;
+    z-index: 36;
+  }
+  .password {
+    font-size: 36px;
+    font-family: "Gotham XLight";
+    color: rgb(169, 169, 169);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 243.653px;
+    top: 763.077px;
+    z-index: 35;
+  }
+  .forgot_password {
+    font-size: 36px;
+    font-family: "Gotham XLight";
+    color: rgba(154, 1, 53, 0.471);
+    font-style: italic;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1310.2px;
+    top: 760.077px;
+    z-index: 34;
+  }
+  .Log_in {
+    font-size: 60px;
+    font-family: "Gotham XLight";
+    color: rgb(154, 1, 53);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1360.76px;
+    top: 641.239px;
+    z-index: 33;
+  }
+  .Continue {
+    font-size: 60px;
+    font-family: "Gotham XLight";
+    color: rgb(154, 1, 53);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 585.62px;
+    top: 980px;
+    z-index: 32;
+  }
+  .email_copy {
+    font-size: 36px;
+    font-family: "Gotham XLight";
+    color: rgb(169, 169, 169);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1408.912px;
+    top: 439.4px;
+    z-index: 31;
+  }
+  .email {
+    font-size: 36px;
+    font-family: "Gotham XLight";
+    color: rgb(169, 169, 169);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 279.912px;
+    top: 660.4px;
+    z-index: 30;
+  }
+  .birthdate_dd_mm_yy {
+    font-size: 36px;
+    font-family: "Gotham XLight";
+    color: rgb(169, 169, 169);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 108.652px;
+    top: 557.524px;
+    z-index: 29;
+  }
+  .last_name {
+    font-size: 36px;
+    font-family: "Gotham XLight";
+    color: rgb(169, 169, 169);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 371.437px;
+    top: 439.4px;
+    z-index: 28;
+  }
+  .username {
+    font-size: 36px;
+    font-family: "Gotham XLight";
+    color: rgb(169, 169, 169);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 631.012px;
+    top: 444.4px;
+    z-index: 27;
+  }
+  .txt {
+    padding: 6px;
+    font-size: 23px;
+    border-width: 5px;
+    border-color: #c02456;
+    background-color: #FFFFFF;
+    color: #000000;
+    border-style: solid;
+    border-radius: 23px;
+    box-shadow: 0px 0px 5px rgba(66,66,66,.75);
+    outline: none;
+    text-align: center;
+}
+.firstname{
+position: absolute;
+top: 40%;
+left: 10%;
+width: 150px;
+
+}
+.lastname{
+  position: absolute;
+  top: 40%;
+  left: 25%;
+  width: 150px;
+
+}
+.username{
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  width: 150px;
+
+}
+.email{
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  width: 450px;
+}
+.pw{
+  position: absolute;
+  top: 60%;
+  left: 10%;
+  width: 450px;
+}
+.cp{
+  position: absolute;
+  top: 70%;
+  left: 10%;
+  width: 450px;
+}
+.lemail{
+  
+  position: absolute;
+  top: 40%;
+  left: 60%;
+  width: 450px;
+}
+.lpw{
+  
+  position: absolute;
+  top: 60%;
+  left: 60%;
+  width: 450px;
+}
+.css-input:focus {
+    outline:none;
+}
+  
+  .fname_copy_7 {
+    background-image: url("fname copy 7.png");
+    position: absolute;
+    left: 601px;
+    top: 418px;
+    width: 227px;
+    height: 86px;
+    z-index: 25;
+  }
+  .fname_copy {
+    background-image: url("fname copy.png");
+    position: absolute;
+    left: 342px;
+    top: 418px;
+    width: 227px;
+    height: 86px;
+    z-index: 24;
+  }
+  .fname {
+    background-image: url("fname.png");
+    position: absolute;
+    left: 83px;
+    top: 418px;
+    width: 227px;
+    height: 86px;
+    z-index: 23;
+  }
+  .logo {
+    background-image: url("logo.png");
+    position: absolute;
+    left: 83px;
+    top: 153px;
+    width: 486px;
+    height: 105px;
+    z-index: 22;
+  }
+  .background {
+    background-image: url("background.png");
+    position: absolute;
+    left: -85px;
+    top: 0px;
+    width: 2089px;
+    height: 1515px;
+    z-index: 21;
+  }
+  

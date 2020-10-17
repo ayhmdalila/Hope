@@ -1,0 +1,80 @@
+.tb{
+    top: 0;
+    left: 0;
+   width: 100%;
+   height: 20%;
+/*   background: ;*/
+}
+.Thope{
+    position: absolute;
+    top: 2%;
+    left: 5%;
+
+    width: 200px;
+}
+.hope{
+    position: absolute;
+    top: 10%;
+    left: 7%;
+    height: 80px;
+    width: 200px;
+}
+.ah,.ab,.aa,.aen,.aar{
+    position: absolute;
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(19, 39, 151);
+}
+.ah{left: 20%;}
+.ab{left: 35%;}
+.aa{left: 50%;}
+.aen{left: 90%;}
+.aar{left: 95%;}
+.imgs{
+    position: absolute;
+    top: 25%; 
+    left: 5%;
+}
+.imgsl{
+    position: absolute;
+    top: 70%; 
+    left: 5%;
+}
+.imgs img{
+    height: 300px;
+    width: 300px;
+}
+.imgsl img{
+    height: 100px;
+    width: 150px;
+}
+.imgsl{
+    position: absolute;
+    top: 80%;
+    width: 90%;
+}
+.kl{
+    position: absolute;
+    
+    left: 5%;
+}
+.al{
+    position: absolute;
+    left: 30%;
+
+}
+.vl{
+    position: absolute;
+    left: 55%;
+}
+.rl{
+    position: absolute;
+    left: 80%;
+}
+.k,.a,.v,.r{
+    transition: 1.5s;
+}
+.k:hover,.a:hover,.v:hover,.r:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
