@@ -1,0 +1,75 @@
+.Test {
+  position: absolute;
+  left: 4040px;
+  top: 3076px;
+  width: 1920px;
+  height: 1080px;
+  z-index: 79;
+}
+.EN_____AR_copy {
+  font-size: 30px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1749px;
+  top: 61.5px;
+  z-index: 78;
+}
+.Next___ {
+  font-size: 60px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 845px;
+  top: 942.5px;
+  z-index: 77;
+}
+.t_1_4 {
+  background-image: url("t-1-4.png");
+  position: absolute;
+  left: 69px;
+  top: 803px;
+  width: 1658px;
+  height: 98px;
+  z-index: 76;
+}
+.t_1_3 {
+  background-image: url("t-1-3.png");
+  position: absolute;
+  left: 66px;
+  top: 680px;
+  width: 1658px;
+  height: 98px;
+  z-index: 75;
+}
+.t_1_2 {
+  background-image: url("t-1-2.png");
+  position: absolute;
+  left: 66px;
+  top: 557px;
+  width: 1658px;
+  height: 98px;
+  z-index: 74;
+}
+.t_1_1 {
+  background-image: url("t-1-1.png");
+  position: absolute;
+  left: 69px;
+  top: 434px;
+  width: 1658px;
+  height: 98px;
+  z-index: 73;
+}
+.q_1 {
+  background-image: url("q-1.png");
+  position: absolute;
+  left: 69px;
+  top: 90px;
+  width: 1653px;
+  height: 135px;
+  z-index: 72;
+}
