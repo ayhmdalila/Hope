@@ -1,0 +1,86 @@
+.Test_copy_4 {
+  position: absolute;
+  left: 8080px;
+  top: 5668px;
+  width: 1920px;
+  height: 1080px;
+  z-index: 225;
+}
+.EN_____AR_copy {
+  font-size: 30px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1749px;
+  top: 61.5px;
+  z-index: 224;
+}
+.___Back {
+  font-size: 60px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 697.625px;
+  top: 941.5px;
+  z-index: 223;
+}
+.Next___ {
+  font-size: 60px;
+  font-family: "Gotham";
+  color: rgb(154, 1, 53);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 989px;
+  top: 941.5px;
+  z-index: 222;
+}
+.t_5_4 {
+  background-image: url("t-5-4.png");
+  position: absolute;
+  left: 69px;
+  top: 803px;
+  width: 1658px;
+  height: 98px;
+  z-index: 221;
+}
+.t_5_3 {
+  background-image: url("t-5-3.png");
+  position: absolute;
+  left: 66px;
+  top: 680px;
+  width: 1658px;
+  height: 98px;
+  z-index: 220;
+}
+.t_5_2 {
+  background-image: url("t-5-2.png");
+  position: absolute;
+  left: 66px;
+  top: 557px;
+  width: 1658px;
+  height: 98px;
+  z-index: 219;
+}
+.t_5_1 {
+  background-image: url("t-5-1.png");
+  position: absolute;
+  left: 69px;
+  top: 434px;
+  width: 1658px;
+  height: 98px;
+  z-index: 218;
+}
+.q_5 {
+  background-image: url("q-5.png");
+  position: absolute;
+  left: 69px;
+  top: 90px;
+  width: 1428px;
+  height: 198px;
+  z-index: 217;
+}
